@@ -2,8 +2,8 @@
 
 MOVIES=("pushpa" "rrr" "devara")
 
-echo "first movie: ${movie[0]}"
-echo "second movie: ${movie[1]}"
-echo "third movie: ${movie[2]}"
+echo "first movie: ${movies[0]}"
+echo "second movie: ${movies[1]}"
+echo "third movie: ${movies[2]}"
 
 echo "all movies are: ${movie[@]}"
